@@ -201,23 +201,6 @@ function Header() {
             className="border border-[#800020] hover:bg-[#800020] rounded-md w-full mx-auto duration-300"
           >
             <a
-              href="#work"
-              className="flex flex-col items-center justify-center font-medium text-sm text-[#800020] hover:text-white duration-200 py-2"
-            >
-              <span className="block text-lg mb-[2px] sm:mr-2">
-                <TfiGallery />
-              </span>
-              Projects
-            </a>
-          </li>
-          <li
-            onClick={() => {
-              setShowModal(false);
-              setShow(false);
-            }}
-            className="border border-[#800020] hover:bg-[#800020] rounded-md w-full mx-auto duration-300"
-          >
-            <a
               href="#contact"
               className="flex flex-col items-center justify-center font-medium text-sm text-[#800020] hover:text-white duration-200 py-2"
             >
