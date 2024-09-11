@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { BiUser } from "react-icons/bi";
 import { TbDownload } from "react-icons/tb";
-import { TfiGallery } from "react-icons/tfi";
 import { GiSkills } from "react-icons/gi";
 import { MdWorkOutline } from "react-icons/md";
 import { TbBrandTelegram } from "react-icons/tb";
@@ -61,14 +60,6 @@ function Header() {
               </li>
               <li className="nav_item text-sm px-2 py-1 group">
                 <a
-                  href="#work"
-                  className="nav_link text-white group-hover:text-white duration-150"
-                >
-                  Portfolio
-                </a>
-              </li>
-              <li className="nav_item text-sm px-2 py-1 group">
-                <a
                   href="#contact"
                   className="nav_link text-white group-hover:text-white duration-150"
                 >
@@ -106,19 +97,16 @@ function Header() {
               }}
             >
               <span
-                className={`${
-                  showModal ? "-rotate-45 translate-y-[8.8px]" : ""
-                } inline-block w-full h-[2px] border border-white duration-300`}
+                className={`${showModal ? "-rotate-45 translate-y-[8.8px]" : ""
+                  } inline-block w-full h-[2px] border border-white duration-300`}
               ></span>
               <span
-                className={`${
-                  showModal ? "hidden" : ""
-                } inline-block w-[60%] h-[2px] border border-white`}
+                className={`${showModal ? "hidden" : ""
+                  } inline-block w-[60%] h-[2px] border border-white`}
               ></span>
               <span
-                className={`${
-                  showModal ? "rotate-45 -translate-y-[8.8px]" : ""
-                } inline-block w-full h-[2px] border border-white duration-300`}
+                className={`${showModal ? "rotate-45 -translate-y-[8.8px]" : ""
+                  } inline-block w-full h-[2px] border border-white duration-300`}
               ></span>
             </button>
           </div>

@@ -55,7 +55,7 @@ function Footer() {
                   data-aos-duration="600"
                   data-aos-delay="100"
                 >
-                  <p>English & Russion</p>
+                  <p>English & Russian</p>
                 </li>
               </ul>
             </div>
