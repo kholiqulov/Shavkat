@@ -29,7 +29,7 @@ function Skills() {
                 HTML
               </span>
               <span className="text-sm font-medium text-white dark:text-white">
-                80%
+                90%
               </span>
             </div>
             <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
@@ -42,7 +42,7 @@ function Skills() {
                 Css
               </span>
               <span className="text-sm font-medium text-white dark:text-white">
-                70%
+                90%
               </span>
             </div>
             <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
@@ -68,7 +68,7 @@ function Skills() {
                 C++
               </span>
               <span className="text-sm font-medium text-white dark:text-white">
-                65%
+                85%
               </span>
             </div>
             <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
