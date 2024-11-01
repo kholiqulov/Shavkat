@@ -32,8 +32,8 @@ function Skills() {
                 90%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[80%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[80%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="50">
@@ -45,8 +45,8 @@ function Skills() {
                 90%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[70%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[70%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
@@ -58,8 +58,8 @@ function Skills() {
                 85%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[82%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[82%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="150">
@@ -71,8 +71,8 @@ function Skills() {
                 85%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[65%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[65%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
@@ -81,11 +81,11 @@ function Skills() {
                 Java
               </span>
               <span className="text-sm font-medium text-white dark:text-white">
-                70%
+                80%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[70%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[70%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="250">
@@ -97,8 +97,8 @@ function Skills() {
                 98%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[98%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[98%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
@@ -110,8 +110,8 @@ function Skills() {
                 99%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[99%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[99%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="350">
@@ -123,8 +123,8 @@ function Skills() {
                 95%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[95%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[95%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
@@ -136,8 +136,8 @@ function Skills() {
                 99%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[99%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[99%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="450">
@@ -149,8 +149,8 @@ function Skills() {
                 97%
               </span>
             </div>
-            <div className="max-w-[400px] w-full bg-gray-200 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-[#ffffff] h-2 rounded-full w-[97%]"></div>
+            <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
+              <div className="bg-blue-700 h-2 rounded-full w-[97%]"></div>
             </div>
           </div>
         </div>
