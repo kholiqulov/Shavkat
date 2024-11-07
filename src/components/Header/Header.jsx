@@ -67,7 +67,7 @@ function Header() {
                 </a>
               </li>
             </ul>
-            <a
+            {/* <a
               href={Resume}
               download="Nodirbek's resume.pdf"
               className="flex items-center text-sm ml-5 border border-white text-white rounded-[6px] hover:bg-[rgb(104,25,25)] py-2 px-3 duration-200"
@@ -76,7 +76,7 @@ function Header() {
               <span className="inline-block ml-2">
                 <TbDownload />
               </span>
-            </a>
+            </a> */}
           </div>
           <div className="flex md:hidden items-center space-x-10">
             <a
