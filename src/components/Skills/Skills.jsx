@@ -46,7 +46,7 @@ function Skills() {
               </span>
             </div>
             <div className="max-w-[400px] w-full bg-gray-300 rounded-full h-2 dark:bg-[#52202d]">
-              <div className="bg-blue-700 h-2 rounded-full w-[70%]"></div>
+              <div className="bg-blue-700 h-2 rounded-full w-[90%]"></div>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
