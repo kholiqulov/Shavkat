@@ -56,10 +56,10 @@ function Hero() {
             className="text-white text-base"
           >
             A passionate individual with a deep fascination for space and
-            robotics. From a young age, their curiosity about the universe has
-            driven them to explore the mysteries of distant galaxies, stars, and
+            robotics. From a young age, my curiosity about the universe has
+            driven me to explore the mysteries of distant galaxies, stars, and
             planets. This passion has only grown stronger over time, leading
-            them to dream of contributing to space exploration.
+            me to dream of contributing to space exploration.
           </p>
           <a
             href="tel:+998997740510"
